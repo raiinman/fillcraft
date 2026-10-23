@@ -16,7 +16,7 @@ Make a progress bar with personality. Browse 48 ASCII, Unicode, wild and emoji d
 - **Take your bar anywhere.** Copy or download plain text, colored HTML or SVG.
 - **Settle into your space.** Blood Red & Gold by default, plus Autumn Purple, Ocean and Slate with matching logos. Brightness follows your desktop or browser, and your palette choice is remembered.
 
-No account needed. Favorites live in your browser, so export a backup before clearing browser data or switching devices. Plain text does not retain colors; emoji appearance depends on your device.
+No account needed. Favorites live in your browser, so export a backup before clearing browser data or switching devices. Plain text does not retain colors. Marker spacing above zero inserts spaces between cells in text exports; set it to zero for a continuous bar. Emoji appearance depends on your device.
 
 ## Made by Dead Signal Interactive
 

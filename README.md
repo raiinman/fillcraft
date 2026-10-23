@@ -14,7 +14,7 @@ Make a progress bar with personality. Browse 48 ASCII, Unicode, wild and emoji d
 - **Collect the good ones.** Save directly from the searchable design library. Saved badges show what is already in your collection. Organize favorites into folders, rename them, and back them up.
 - **Share the exact look.** Send a link with every design setting included.
 - **Take your bar anywhere.** Copy or download plain text, colored HTML or SVG.
-- **Settle into your space.** Four page palettes with brightness that follows your desktop or browser.
+- **Settle into your space.** Blood Red & Gold by default, plus Autumn Purple, Ocean and Slate with matching logos. Brightness follows your desktop or browser, and your palette choice is remembered.
 
 No account needed. Favorites live in your browser, so export a backup before clearing browser data or switching devices. Plain text does not retain colors; emoji appearance depends on your device.
 

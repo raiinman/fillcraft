@@ -1,5 +1,7 @@
 # Fillcraft
 
+<img src="fillcraft-logo.png" width="96" height="96" alt="Fillcraft logo: gold F with a red signal segment">
+
 ### A little character. A lot of progress.
 
 **By [Dead Signal Interactive](https://deadsignal.studio)**
